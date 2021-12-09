@@ -1,6 +1,7 @@
 # Neural_Networks_Gesture_Recognition_Project
 
 **Download the data from here:** https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
+
 We created a model that will recognise five different gestures performed by the user further helping users control the TV without using a remote.
 In this project, you will build a model to recognise 5 hand gestures.
 
